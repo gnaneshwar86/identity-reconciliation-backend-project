@@ -1,4 +1,4 @@
-```markdown
+
 # Identity Reconciliation Backend
 
 A Spring Boot backend service that consolidates customer identities across multiple purchases by linking contacts based on shared email or phone number.
@@ -126,5 +126,5 @@ Gnaneshwar R L
 gnaneshwarnani8605@gmail.com
 +91 8608698986
 
-```
+
 
