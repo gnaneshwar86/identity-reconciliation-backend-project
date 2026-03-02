@@ -1,6 +1,6 @@
 package com.gnaneshwar.identity_reconciliation.repository;
 
-import com.gnaneshwar.identityreconciliation.entity.Contact;
+import com.gnaneshwar.identity_reconciliation.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
